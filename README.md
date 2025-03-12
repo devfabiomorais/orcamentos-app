@@ -24,7 +24,7 @@ Aplicação full-stack para cadastro de itens e geração de orçamentos, otimiz
 ## 📦 Instalação  
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/orcamentos-app.git
+git clone https://github.com/devfabiomorais/orcamentos-app.git
 
 # Acesse a pasta
 cd orcamentos-app
