@@ -7,7 +7,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-5.x-2D3748?style=flat&logo=prisma&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.x-336791?style=flat&logo=postgresql&logoColor=white)  
 
-Aplicação full-stack para cadastro de itens e geração de orçamentos, otimizada para empresas do setor hidráulico.  
+Aplicação full-stack para cadastro de itens e geração de orçamentos, otimizada para empresas. 
 
 ## 🚀 Tecnologias  
 🔹 **Frontend:** React, TypeScript, Next.js  
